@@ -1,7 +1,7 @@
+import Navbar from './components/Navbar/index.';
+
 const Admin = () => (
-    <div>
-        <h1>Admin</h1>
-    </div>
+    <Navbar />
 );
 
 export default Admin;
